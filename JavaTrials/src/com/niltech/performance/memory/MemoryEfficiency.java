@@ -1,4 +1,4 @@
-package com.niltech.performance;
+package com.niltech.performance.memory;
 
 public class MemoryEfficiency {
 
